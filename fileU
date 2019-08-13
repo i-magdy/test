@@ -1,2 +1,10 @@
-hello  world
-
+git init
+git log 
+git status
+git add "file name"
+git commit
+git remote
+git remote origin <URL>
+git remote
+git push origin master
+git pull origin master
